@@ -14,4 +14,4 @@ Hi, I'm **Daniel**! 👋
 
 ## 🧩 GitHub Stats
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=DanAriyo&theme=tokyonight&border_radius=5.5)
+// ![GitHub Stats Card](https://ghstats.dev/api/card?username=DanAriyo&theme=tokyonight&border_radius=5.5)
